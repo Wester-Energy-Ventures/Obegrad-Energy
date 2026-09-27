@@ -1,0 +1,23 @@
+<svg viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Mountain river illustration</title>
+  <desc id="d">Conceptual illustration of a Himalayan river. Not a photograph of the actual project.</desc>
+  <rect width="800" height="600" fill="#EAF4F9"/>
+  <defs>
+    <linearGradient id="s" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stopColor="#C8E3EE"/><stop offset="1" stopColor="#F5F9FA"/>
+    </linearGradient>
+    <linearGradient id="m" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stopColor="#599FC6"/><stop offset="1" stopColor="#135F88"/>
+    </linearGradient>
+    <linearGradient id="r" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stopColor="#77C99C"/><stop offset="1" stopColor="#159447"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="240" fill="url(#s)"/>
+  <path d="M0 360 L180 170 L300 300 L430 130 L560 280 L720 150 L800 240 L800 600 L0 600 Z" fill="url(#m)"/>
+  <path d="M0 440 C 140 400 260 480 400 440 C 540 400 680 460 800 420 L800 600 L0 600 Z" fill="#0B4F71"/>
+  <path d="M350 130 C 368 210 396 300 380 380 C 366 452 380 520 396 600" stroke="url(#r)" strokeWidth="46" strokeLinecap="round"/>
+  <path d="M350 130 C 368 210 396 300 380 380 C 366 452 380 520 396 600" stroke="#DBF2E4" strokeWidth="5" strokeDasharray="12 22" strokeLinecap="round" opacity="0.8"/>
+  <circle cx="600" cy="150" r="34" fill="#A9DFBF" opacity="0.5"/>
+  <circle cx="600" cy="150" r="16" fill="#EAF7EF"/>
+</svg>

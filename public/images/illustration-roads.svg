@@ -1,0 +1,19 @@
+<svg viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Access road concept</title>
+  <desc id="d">Conceptual illustration of a mountain access road.</desc>
+  <rect width="800" height="600" fill="#F5F9FA"/>
+  <defs>
+    <linearGradient id="mg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stopColor="#C8E3EE"/><stop offset="1" stopColor="#9CCBDF"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 260 L120 120 L220 220 L340 90 L470 230 L620 110 L800 260 L800 600 L0 600 Z" fill="url(#mg)"/>
+  <path d="M0 600 L0 500 C 200 460 300 540 420 500 C 540 460 660 520 800 480 L800 600 Z" fill="#0B4F71"/>
+  <path d="M60 440 C 180 380 260 470 360 420 C 460 372 560 430 700 380" stroke="#10333f" strokeWidth="26" strokeLinecap="round" fill="none"/>
+  <path d="M60 440 C 180 380 260 470 360 420 C 460 372 560 430 700 380" stroke="#E2EBEF" strokeWidth="12" strokeDasharray="26 30" strokeLinecap="round" fill="none"/>
+  <circle cx="360" cy="420" r="4" fill="#159447"/>
+  <g font-family="ui-sans-serif, system-ui">
+    <text x="40" y="560" font-size="14" font-weight="700" fill="#102A36">Access Road</text>
+    <text x="40" y="582" font-size="12" fill="#60727A">Planning allocation NPR 5 crore</text>
+  </g>
+</svg>

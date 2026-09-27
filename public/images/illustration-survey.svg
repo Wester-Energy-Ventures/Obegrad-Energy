@@ -1,0 +1,26 @@
+<svg viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Survey and study fieldwork illustration</title>
+  <desc id="d">Conceptual illustration of survey and study fieldwork.</desc>
+  <rect width="800" height="600" fill="#EAF4F9"/>
+  <defs>
+    <linearGradient id="sn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stopColor="#599FC6"/><stop offset="1" stopColor="#0B4F71"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 340 L180 180 L300 300 L430 140 L560 290 L800 220 L800 600 L0 600 Z" fill="url(#sn)" opacity="0.35"/>
+  <g>
+    <line x1="330" y1="330" x2="330" y2="210" stroke="#0B4F71" strokeWidth="5"/>
+    <path d="M300 210 L360 210 L330 180 Z" fill="#159447"/>
+    <circle cx="330" cy="330" r="16" fill="none" stroke="#0B4F71" strokeWidth="5"/>
+  </g>
+  <rect x="420" y="360" width="160" height="110" rx="10" fill="#ffffff" stroke="#C8E3EE"/>
+  <path d="M470 300 C 460 340 470 360 470 360 L450 470 M530 300 C 540 340 530 360 530 360 L550 470" stroke="#0B4F71" strokeWidth="5" fill="none"/>
+  <circle cx="470" cy="300" r="14" fill="#F2C94C"/>
+  <circle cx="530" cy="300" r="14" fill="#F2C94C"/>
+  <path d="M330 340 L330 470" stroke="#0B4F71" strokeWidth="6" strokeLinecap="round"/>
+  <circle cx="330" cy="300" r="10" fill="#F2C94C"/>
+  <g font-family="ui-sans-serif, system-ui">
+    <text x="420" y="390" font-size="13" font-weight="700" fill="#102A36">Survey &amp; Studies</text>
+    <text x="420" y="412" font-size="12" fill="#60727A">Survey licence obtained</text>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Transmission line concept</title>
+  <desc id="d">Conceptual illustration of transmission pylons and lines.</desc>
+  <rect width="800" height="600" fill="#F5F9FA"/>
+  <defs>
+    <linearGradient id="sk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stopColor="#9CCBDF"/><stop offset="1" stopColor="#EAF4F9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="260" fill="url(#sk)"/>
+  <g stroke="#135F88" strokeWidth="3" fill="none">
+    <path d="M150 260 Q 190 200 230 260"/><path d="M250 260 Q 290 200 330 260"/>
+    <path d="M360 260 Q 400 200 440 260"/><path d="M490 260 Q 530 200 570 260"/>
+  </g>
+  <g stroke="#135F88" strokeWidth="2">
+    <line x1="150" y1="180" x2="800" y2="180"/><line x1="150" y1="192" x2="800" y2="192"/>
+    <line x1="150" y1="204" x2="800" y2="204"/>
+  </g>
+  <g fill="#0B4F71">
+    <rect x="130" y="250" width="40" height="300"/><rect x="230" y="250" width="40" height="300"/>
+    <rect x="340" y="250" width="40" height="300"/><rect x="470" y="250" width="40" height="300"/>
+    <rect x="600" y="250" width="40" height="300"/>
+  </g>
+  <g stroke="#0B4F71" strokeWidth="5" strokeLinecap="round">
+    <line x1="150" y1="190" x2="155" y2="285"/><line x1="250" y1="190" x2="255" y2="285"/>
+    <line x1="360" y1="190" x2="355" y2="285"/><line x1="490" y1="190" x2="485" y2="285"/>
+  </g>
+  <g font-family="ui-sans-serif, system-ui">
+    <text x="40" y="560" font-size="14" font-weight="700" fill="#102A36">Transmission Evacuation</text>
+    <text x="40" y="582" font-size="12" fill="#60727A">Approximately 8 km at 33 kV (planning basis)</text>
+  </g>
+</svg>

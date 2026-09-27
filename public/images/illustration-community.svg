@@ -1,0 +1,31 @@
+<svg viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Community illustration</title>
+  <desc id="d">Conceptual illustration of a rural community in the project area.</desc>
+  <rect width="800" height="600" fill="#EAF7EF"/>
+  <defs>
+    <linearGradient id="gc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stopColor="#77C99C"/><stop offset="1" stopColor="#0E6B34"/>
+    </linearGradient>
+  </defs>
+  <circle cx="640" cy="110" r="120" fill="#A9DFBF" opacity="0.5"/>
+  <circle cx="640" cy="110" r="22" fill="#EAF7EF"/>
+  <path d="M0 330 L200 200 L340 340 L520 220 L800 420 L800 600 L0 600 Z" fill="#77C99C" opacity="0.55"/>
+  <g fill="#0B4F71">
+    <rect x="120" y="260" width="120" height="90" rx="6"/><rect x="84" y="290" width="36" height="60" rx="4"/>
+    <rect x="300" y="280" width="130" height="100" rx="6"/><rect x="396" y="310" width="38" height="70" rx="4"/>
+    <rect x="500" y="250" width="110" height="80" rx="6"/><rect x="552" y="278" width="34" height="54" rx="4"/>
+  </g>
+  <path d="M180 260 L180 235" stroke="#062F45" strokeWidth="5" strokeLinecap="round"/>
+  <path d="M350 280 L350 250" stroke="#062F45" strokeWidth="5" strokeLinecap="round"/>
+  <g fill="#0B6B34">
+    <circle cx="210" cy="420" r="12"/><circle cx="270" cy="400" r="12"/>
+    <circle cx="470" cy="430" r="12"/><circle cx="540" cy="415" r="12"/>
+  </g>
+  <path d="M210 432 L210 470 M270 412 L270 450 M470 442 L470 480 M540 427 L540 465" stroke="#0B6B34" strokeWidth="6" strokeLinecap="round"/>
+  <circle cx="210" cy="410" r="8" fill="#F2C94C"/><circle cx="270" cy="390" r="8" fill="#F2C94C"/>
+  <circle cx="470" cy="420" r="8" fill="#F2C94C"/><circle cx="540" cy="405" r="8" fill="#F2C94C"/>
+  <g font-family="ui-sans-serif, system-ui">
+    <text x="40" y="560" font-size="14" font-weight="700" fill="#102A36">Local Communities</text>
+    <text x="40" y="582" font-size="12" fill="#60727A">Responsible engagement and community programs</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Powerhouse and turbine concept</title>
+  <desc id="d">Conceptual illustration of a hydropower powerhouse building and turbine.</desc>
+  <rect width="800" height="600" fill="#EAF7EF"/>
+  <defs>
+    <linearGradient id="ph" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stopColor="#135F88"/><stop offset="1" stopColor="#0B4F71"/>
+    </linearGradient>
+  </defs>
+  <rect x="140" y="180" width="520" height="300" rx="18" fill="url(#ph)"/>
+  <rect x="140" y="120" width="520" height="60" rx="18" fill="#062F45"/>
+  <rect x="150" y="130" width="500" height="40" fill="#073B56"/>
+  <g fill="#599FC6">
+    <rect x="210" y="210" width="90" height="120" rx="8"/><rect x="330" y="210" width="90" height="120" rx="8"/>
+    <rect x="450" y="210" width="90" height="120" rx="8"/><rect x="570" y="210" width="90" height="120" rx="8"/>
+  </g>
+  <g fill="#159447">
+    <circle cx="255" cy="430" r="34"/><circle cx="375" cy="430" r="34"/>
+    <circle cx="495" cy="430" r="34"/><circle cx="615" cy="430" r="34"/>
+  </g>
+  <g font-family="ui-sans-serif, system-ui">
+    <text x="180" y="540" font-size="14" font-weight="700" fill="#102A36">Powerhouse</text>
+    <text x="180" y="562" font-size="12" fill="#60727A">Turbine units — final configuration through DPR</text>
+  </g>
+</svg>

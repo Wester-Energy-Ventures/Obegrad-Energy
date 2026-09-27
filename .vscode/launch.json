@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Next.js: dev server",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run dev",
+      "serverReadyAction": {
+        "pattern": "started server on .*?:\\s*(localhost|127\\.0\\.0\\.1)[:/]*(\\d+)[:/]",
+        "uriFormat": "http://localhost:%s",
+        "action": "debugWithChrome"
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Next.js: build",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run build",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Next.js: lint",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run lint",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
